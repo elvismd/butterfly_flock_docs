@@ -33,7 +33,7 @@ Here you configure the avoidance behaviour. It starts with good settings. You ca
 
 If you have any problems you can contact me at **contact@elvismd.com**.
 
-I hope you can find this asset useful for your level design and can speed up the process of your scene composition. 
-Please don’t forget to leave a review on the Asset Store to support the Object Scatter tool.
+I hope you can find this asset useful.
+Please don’t forget to leave a review on the Asset Store to support the tool.
 
 Thank you!
